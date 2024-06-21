@@ -4,7 +4,9 @@
 # Word Analytics
 
 ## Description
-Word Analytics is a tool for analyzing text. It counts letters, words, and checks character limits for Facebook and Twitter. This project is designed to practice basic JavaScript DOM manipulation and event handling.
+Word Analytics is a tool for analyzing text.
+It counts letters, words, and checks character limits for Facebook and Twitter.
+This project is designed to practice basic JavaScript DOM manipulation and event handling.
 
 ## Live Site
 https://kuyaloy.github.io/Javascript-Word-Analytics/
